@@ -1,0 +1,2 @@
+# Pharmacy_Plus
+A Java Swing project aimed at providing a comprehensive solution for managing pharmacy operations digitally. It likely includes features such as inventory management, sales tracking, prescription management, customer service, and reporting functionalities. The system is designed to streamline pharmacy operations, making it easier to handle tasks like inventory management, sales tracking, and customer service within a virtual environment.
